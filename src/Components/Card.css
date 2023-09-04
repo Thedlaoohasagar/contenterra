@@ -1,0 +1,11 @@
+.score{
+    padding:5px 10px;
+    background-color:green;
+    border-radius: 20px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 10px;
+
+}
