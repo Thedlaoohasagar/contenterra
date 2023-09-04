@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/contenterra/static/css/main.ddafd255.css",
+    "main.js": "/contenterra/static/js/main.a6e350c3.js",
+    "static/js/787.54b20a3e.chunk.js": "/contenterra/static/js/787.54b20a3e.chunk.js",
+    "index.html": "/contenterra/index.html",
+    "main.ddafd255.css.map": "/contenterra/static/css/main.ddafd255.css.map",
+    "main.a6e350c3.js.map": "/contenterra/static/js/main.a6e350c3.js.map",
+    "787.54b20a3e.chunk.js.map": "/contenterra/static/js/787.54b20a3e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ddafd255.css",
+    "static/js/main.a6e350c3.js"
+  ]
+}
